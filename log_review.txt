@@ -1,0 +1,3 @@
+Pipeline started
+Reading files
+Pipeline complete

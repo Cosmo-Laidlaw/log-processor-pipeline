@@ -1,0 +1,8 @@
+SUCCESS: Loaded orders.csv
+ERROR: orders.csv missing required column 'price'
+SUCCESS: Cleaned product data
+ERROR: Timeout while connecting to warehouse
+SUCCESS: Exported customer data to S3
+WARNING: Duplicate record found in users.csv
+ERROR: Failed to update inventory snapshot
+SUCCESS: Process completed

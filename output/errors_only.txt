@@ -1,0 +1,3 @@
+ERROR: orders.csv missing required column 'price'
+ERROR: Timeout while connecting to warehouse
+ERROR: Failed to update inventory snapshot
