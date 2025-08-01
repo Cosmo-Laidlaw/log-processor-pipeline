@@ -1,6 +1,0 @@
-{
-  "pipeline_name": "daily_sales_etl",
-  "enabled": true,
-  "batch_size": 500,
-  "output_format": "parquet"
-}
